@@ -8,7 +8,6 @@
     "xml2js": "git+https://github.com/peerlibrary/node-xml2js.git#peerlibrary",
     "underscore": "1.6.x",
     "async": "0.9.x",
-    "request": "2.36.x",
     "moment": "2.7.x"
   },
   "engines": {
